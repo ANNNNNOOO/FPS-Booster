@@ -66,3 +66,5 @@ Disclaimer
 FPS Booster is designed to enhance performance on most systems, but results may vary depending on your hardware configuration. Use it responsibly and ensure all optimizations comply with your game’s terms of service.
 
 Happy Gaming! 🎮
+
+DON'T USE IT
